@@ -1,4 +1,3 @@
-```markdown
 # MacSpoofer
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
@@ -115,6 +114,6 @@ This script is intended for ethical hacking and educational purposes only. **Do 
 
 ---
 
-**WiFi-MAC-Spoofer** © 2024 by [Your Name]. Proudly developed for the cybersecurity community.
+**WiFi-MAC-Spoofer** © 2024 by [Kaleemullah Khan]. Proudly developed for the cybersecurity community.
 ```
  
