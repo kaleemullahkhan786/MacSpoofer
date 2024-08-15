@@ -115,5 +115,5 @@ This script is intended for ethical hacking and educational purposes only. **Do 
 ---
 
 **WiFi-MAC-Spoofer** © 2024 by [Kaleemullah Khan]. Proudly developed for the cybersecurity community.
-```
+
  
