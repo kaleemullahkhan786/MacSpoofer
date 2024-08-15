@@ -76,14 +76,14 @@ MacSpoofer Version: 1.1
 
 Program Started .....
 Enter the network interface: wlan0
-Enter the target MAC address: 18:ce:94:c3:6a:f8
+Enter the target MAC address: 00:11:22:33:44:55
 Enter the WiFi SSID (network name): TP-LINK_5B1866
 Enter the WiFi password: 11221122
 [Console] ===> Disabling WPA service
 [Console] ===> Killing the Network and Libs for WPA service
 [Console] ===> Starting the Network and Libs for WPA service
 [Console] ===> Bringing the Interface Down
-[Console] ===> Changing the MAC Address on Interface wlan0 to 18:ce:94:c3:6a:f8
+[Console] ===> Changing the MAC Address on Interface wlan0 to 00:11:22:33:44:55
 [Console] ===> Enabling the interface: wlan0 up
 [Console] ===> Starting a Network Manager Service
 [Console] ===> Done
